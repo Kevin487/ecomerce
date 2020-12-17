@@ -97,33 +97,33 @@ chapters:
 reviews:
   enable : true
   title : "What people are saying"
-  subtitle : "Amazing reviews illo tenetur laboriosam excepturi velit in, temporibus ab rem dicta sint obcaecati!"
+  subtitle : "Amazing reviews given by trained professional traders, which give Kevin their warm regards and respect."
   review:
     # review item loop
-    - name : "Barrow Hasi"
+    - name : "Tyler Carreon"
       image : "images/client/test-1.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
+      designation : "New York University"
       rating : "five" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
     # review item loop
-    - name : "Nilam Arthur"
+    - name : "Noah Joung"
       image : "images/client/test-2.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
+      designation : "Queens college"
       rating : "four" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
     # review item loop
-    - name : "Barrow Hasi"
+    - name : "Nydrique Allah"
       image : "images/client/test-1.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
+      designation : "Fashion Institute of Technology"
       rating : "five" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
     # review item loop
-    - name : "Nilam Arthur"
+    - name : "John Duron"
       image : "images/client/test-2.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
+      designation : "Allegheny College"
       rating : "four" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
