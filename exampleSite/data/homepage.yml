@@ -226,7 +226,7 @@ blog:
 contact:
   enable : true
   title : "Contact Us"
-  subtitle : "Whether you have questions or you would just like to say hello, contact us.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, atque!"
+  subtitle : "Whether you have questions or you would just like to say hello, contact us. We will connect with you instantly and provide the utmost personal care!"
   contactItem:
     # contact Item loop
     - title : "Contact Quickly"
@@ -238,10 +238,10 @@ contact:
     - title : "Email"
       icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "startor@support.com"
+        - listItem : "leek3@allegheny.edu.com"
 
     # contact Item loop
     - title : "Location"
       icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "397 Lake forest drive street USA"
+        - listItem : "New York, New York 10001"
