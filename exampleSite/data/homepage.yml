@@ -238,7 +238,7 @@ contact:
     - title : "Email"
       icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "leek3@allegheny.edu.com"
+        - listItem : "leek3@allegheny.edu."
 
     # contact Item loop
     - title : "Location"
