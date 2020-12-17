@@ -218,8 +218,8 @@ otherBooks:
 ################################ Blog ###################################
 blog:
   enable : true
-  title : "Our insights and articles"
-  subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique facere quas blanditiis."
+  title : "Professional insights and articles"
+  subtitle : "Read some of the insights and free articles I give insight too. They all have insights on the state of our economy and the macro and micro manisfestations within our stock market."
   # blog post comes from 'content/blog'
 
 ################################# Contact ##############################
