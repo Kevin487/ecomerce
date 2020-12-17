@@ -42,17 +42,17 @@ service:
     # service item loop
     - title : "Experience"
       icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
-      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
+      content : "After thousands of hours of studying, experience, and thousands of dollars spent on personal mentors, bootcamps, books, and courses I have been able to become a successful trader."
 
     # service item loop
     - title : "Marketing Goals"
       icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
-      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
+      content : "My struggle with learning how to trade gives me a passion to give back and shorten everyone's learning curve through a cheaper, but resourceful outlet."
 
     # service item loop
     - title : "Targetting Vission"
       icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
-      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
+      content : "Commit and be hard working, so you can come learn how to make an additional source of income from a tool millionaires use to their advantage to amass more wealth in the modern world of economics."
 
 
 ######################### Quote #############################
