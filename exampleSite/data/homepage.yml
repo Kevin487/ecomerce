@@ -47,7 +47,8 @@ service:
     # service item loop
     - title : "Marketing Goals"
       icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
-      content : "My struggle with learning how to trade gives me a passion to give back and shorten everyone's learning curve through a cheaper, but resourceful outlet."
+      content : "My struggle with learning how to trade gives me a passion to give back and shorten everyone's learning curve through a cheaper, but resourceful outlet.
+      "
 
     # service item loop
     - title : "Targetting Vission"
