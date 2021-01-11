@@ -7,7 +7,7 @@ draft: false
 author : "themefisher"
 
 # post thumb
-image: "images/blog/blog-1.jpg"
+image: "images/blog/joe.jpg"
 
 # meta description
 description: "this is meta description"
