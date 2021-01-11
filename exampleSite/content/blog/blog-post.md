@@ -4,7 +4,7 @@ date: 2021-01-10T15:28:43+06:00
 draft: false
 
 # post author
-author : "themefisher"
+author : "Kevin Lee"
 
 # post thumb
 image: "images/blog/joe.jpg"
