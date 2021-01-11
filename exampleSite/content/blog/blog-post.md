@@ -28,3 +28,18 @@ The ability to call forth the recon process means that a new legislation only ne
 This bill is an infrastructure package, with a tax bill written on top of it. There will be infrastructure development projects to reach a society that is carbon neutral by 2050 and there will be tax hikes for capital gains.
 
 The stimulus package can be expected to give the majority of the population, within America, the benefits of wealth. Joe Biden has mentioned that he does not want to experiment with trickle down economic policies, but implement trickle up economic action.
+
+# You can expect good investments to be found within:
+
+Electric Vehicles Plays:
+
+NIO: Buy a lot below 45 and take small nibbles below 60
+TSLA: A little too overextended for me to touch
+
+Solar Plays:
+
+ENPH: A company that specializes in solar research and development.
+
+Inflation Plays:
+
+Bitcoin: This should be bought closer to closing the deal on the bill as stimulus negotiations, toward the end, serve as a catalyst to pump Bitcoin up.
