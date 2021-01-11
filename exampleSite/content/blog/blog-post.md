@@ -1,5 +1,5 @@
 ---
-title: "Joe Biden's Stimulus Package Suggestions"
+title: "$2000 Stimulus Checks?"
 date: 2021-01-10T15:28:43+06:00
 draft: false
 
@@ -19,6 +19,7 @@ tags: ["Photos", "HTML", "Python", "New"]
 type: "post"
 ---
 
+# Joe Biden's Stimulus Package Suggestions
 
 The Democratic party, of the 117th congress of America, wants to pass a three to four trillion dollar stimulus package by the end of January or early February. The only problem lies within the senate because the house and the white house are fully controlled by the Democratic Party. The senate needs to give 60 votes for the bill to pass, but only 51 if the Recon Process is used, which can only be used by the controlling party nine times within the two years.
 
